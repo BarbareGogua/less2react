@@ -17,6 +17,7 @@ let cardinfo = {
       <img src="{cardinfo}" alt="" />
       <h4>{cardinfo.firstname}</h4>
       <h5>{cardinfo.lastname}</h5>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates similique, repellat voluptate in nulla praesentium delectus sapiente quia impedit porro! Eius facere blanditiis iste soluta exercitationem consectetur minus amet iusto.git </p>
     </div>
 
     </>
